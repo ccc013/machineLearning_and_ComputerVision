@@ -13,6 +13,54 @@
 
 
 
+#### 资源 & 教程 & 书籍
+
+##### 机器学习
+
+1. [机器学习知识速查表](https://github.com/afshinea/stanford-cs-229-machine-learning)
+2. [Papers with Code](https://paperswithcode.com)：查找带有代码实现的论文和算法
+3. [Browse state-of-the-art](https://paperswithcode.com/sota)：可以查找每个领域中当前性能最好的算法
+4. [Arxiv-sanity](http://www.arxiv-sanity.com/)：更加方便阅读 Arxiv 的论文
+5. [TorchGAN](https://github.com/torchgan/torchgan)：基于 Pytorch 的 TorchGAN
+6. [TFGAN](https://github.com/tensorflow/models/tree/master/research/gan)：基于 TensorFlow 的 TFGAN
+
+
+
+##### 深度学习
+
+1. [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习 500 问
+2. [深度学习知识速查表](https://github.com/afshinea/stanford-cs-230-deep-learning)
+
+
+
+##### TensorFlow
+
+1. [TensorFlow 官方中文教程](https://tensorflow.google.cn/tutorials/?hl=zh-cn)
+2. [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course#why-use-tensorflow)：一份简单易懂的 TensorFlow 教程
+
+
+
+##### Python
+
+1. [Python 知识点速查表](https://github.com/gto76/python-cheatsheet)
+2. [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)：181个开源的 Python 开源项目
+
+
+
+##### Github
+
+1. [Octotree](https://github.com/ovity/octotree)：展示 Github 项目的目录的插件
+2. [git-history](https://github.com/pomber/git-history)：可以查看文件的提交历史信息
+3. [Gitter](https://github.com/huangjianke/Gitter)：一款高颜值的 Github 微信小程序
+
+
+
+##### 书籍
+
+1. 模式识别与机器学习(PRML) [[介绍]](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) [[PDF]](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) [[matlab 实现代码]](http://prml.github.io/) : 机器学习领域非常经典著名的一本书籍
+2. TensorFlow内核剖析 [[Github]](https://github.com/horance-liu/tensorflow-internals) [[PDF]](<https://raw.github.com/horance-liu/tensorflow-internals/master/tensorflow-internals.pdf>) ：这是一本剖析 TensorFlow 内核工作原理的书籍
+3. 吴恩达老师的最新书籍--MachineLearningYearning [[官网]](https://www.deeplearning.ai/) [[英文版]](https://www.deeplearning.ai/machine-learning-yearning/) [[中文版]](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
+
 ### 文章汇总
 
 #### 机器学习
