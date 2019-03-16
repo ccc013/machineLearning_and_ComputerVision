@@ -79,6 +79,7 @@
 - 2019-02-24:  [常用机器学习算法汇总比较(上）](https://mp.weixin.qq.com/s/4Ban_TiMKYUBXTq4WcMr5g)
 - 2019-02-26:  [常用机器学习算法汇总比较(中）](https://mp.weixin.qq.com/s/ELQbsyxQtZYdtHVrfOFBFw)
 - 2019-03-05：[常用机器学习算法汇总比较(完）](https://mp.weixin.qq.com/s/V2C4u9mSHmQdVl9ZYs1-FQ)
+- 2019-03-15：[简单聊聊模型的性能评估标准](https://mp.weixin.qq.com/s/eEfvwMxN4hPa7-8UXVeteA)
 
 #### 深度学习
 
