@@ -52,6 +52,9 @@
 1. [Octotree](https://github.com/ovity/octotree)：展示 Github 项目的目录的插件
 2. [git-history](https://github.com/pomber/git-history)：可以查看文件的提交历史信息
 3. [Gitter](https://github.com/huangjianke/Gitter)：一款高颜值的 Github 微信小程序
+4. [GitHunt](https://github.com/kamranahmedse/githunt)--一个开源的 Chrome 插件，把你 Chrome 的 Tab 页转为 GitHub 开源项目的推荐页
+5. [OctoLinker](https://github.com/OctoLinker/OctoLinker)--一个插件，可以点击代码中导入的库进行跳转，比如`import`, `include`导入的库
+6. [Octohint](https://github.com/pd4d10/octohint)--显示当前选定变量的所有使用位置，还有变量定义的位置等
 
 
 
@@ -80,6 +83,8 @@
 - 2019-02-26:  [常用机器学习算法汇总比较(中）](https://mp.weixin.qq.com/s/ELQbsyxQtZYdtHVrfOFBFw)
 - 2019-03-05：[常用机器学习算法汇总比较(完）](https://mp.weixin.qq.com/s/V2C4u9mSHmQdVl9ZYs1-FQ)
 - 2019-03-15：[简单聊聊模型的性能评估标准](https://mp.weixin.qq.com/s/eEfvwMxN4hPa7-8UXVeteA)
+- 2019-03-18：[模型评估、过拟合欠拟合以及超参数调优方法](https://mp.weixin.qq.com/s/1NxVNtKNsZFWYI62KzL1GA)
+- 2019-03-20：[初学者的机器学习入门实战教程！](https://mp.weixin.qq.com/s/HoFiD0ItcO5_pVMspni_xw)
 
 #### 深度学习
 
@@ -109,8 +114,9 @@
 - 2019-01-26：[Python-100 | 练习题 01 & 列表推导式](https://mp.weixin.qq.com/s/qSUJKYjGLkGcswdBpA8KLg)
 - 2019-01-27：[Python-100 练习题 02](https://mp.weixin.qq.com/s/w2pmPqp_dmPNFfoaZP95JQ)
 - 2019-02-11：[Python-100 练习题 03 完全平方数](https://mp.weixin.qq.com/s/iHGr6vCJHgALPoHj8koy-A)
-- 2019-02-18: [Python-100 练习题 04 判断天数](https://mp.weixin.qq.com/s/2hXJq1k-BTCcHAR1tG_o3w)
+- 2019-02-18:  [Python-100 练习题 04 判断天数](https://mp.weixin.qq.com/s/2hXJq1k-BTCcHAR1tG_o3w)
 - 2019-02-28：[Python-100例(5-6) 排序&斐波那契数列](https://mp.weixin.qq.com/s/0MGLyYfBfHhhAyZ0r1RqHQ)
+- 2019-03-08：[Python-100例(7-8) 复制列表 & 打印乘法口诀](https://mp.weixin.qq.com/s/h9a2hJ88bfzTh0I8yH_Czw)
 
 
 
@@ -134,8 +140,10 @@
 - 2018-12-27：[[资源]基于 Pytorch 的 TorchGAN开源了！](https://mp.weixin.qq.com/s/ayZ7v_ZDgvQXF4dQD7fFTQ):
 - 2019-01-10：[[资源]推荐一些Python书籍和教程，入门和进阶的都有！](https://mp.weixin.qq.com/s/jkIQTjM9C3fDvM1c6HwcQg)
 - 2019-01-13: [[Github 项目推荐] 一个更好阅读和查找论文的网站](https://mp.weixin.qq.com/s/ImQcGt8guLKZawNLS-_HzA)
-- 2019-2-2：[[资源推荐] 必须收藏的两个查找论文和代码实现的网站！](https://mp.weixin.qq.com/s/gP0aCO9R8uto7mqA5KrVNw)
+- 2019-02-02：[[资源推荐] 必须收藏的两个查找论文和代码实现的网站！](https://mp.weixin.qq.com/s/gP0aCO9R8uto7mqA5KrVNw)
 - 2019-02-24: [[Github项目推荐] 机器学习& Python 知识点速查表](https://mp.weixin.qq.com/s/kn2DUJHL48UyuoUEhcfuxw)
+- 2019-03-08: [[Github项目推荐] 推荐三个助你更好利用Github的工具](https://mp.weixin.qq.com/s/Mtijg-AXN4zCeZktkr7nqQ)
+- 2019-03-23：[搜索和在线阅读 Github 代码的插件推荐](https://mp.weixin.qq.com/s/Fv8zQf8uaRpkJatMT9MKBw)
 
 
 
