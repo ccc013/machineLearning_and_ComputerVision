@@ -68,6 +68,8 @@
 
 #### 机器学习
 
+- 2019-03-30：[机器学习入门学习资料推荐](https://mp.weixin.qq.com/s/a1Nry01r2e_li1AmuPc1dQ)
+
 ##### 机器学习入门系列
 
 - 2018-9-4: [机器学习入门系列(1)--机器学习概览(上)](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483667&idx=1&sn=c6b6feb241897ede16bd745d595cef92&chksm=fe3b0f66c94c86701e9b071e62750d189c254fd3ebe9bb6251505162139efefdf866093b38c3&token=985117826&lang=zh_CN#rd)
@@ -109,6 +111,10 @@
 
 #### Python
 
+#### 基础入门系列
+
+- [Python 基础入门--简介和环境配置](https://mp.weixin.qq.com/s/DrGr8eiZXj_wTnyDaKFpbg)
+
 ##### Python-100-Examples
 
 - 2019-01-26：[Python-100 | 练习题 01 & 列表推导式](https://mp.weixin.qq.com/s/qSUJKYjGLkGcswdBpA8KLg)
@@ -144,6 +150,7 @@
 - 2019-02-24: [[Github项目推荐] 机器学习& Python 知识点速查表](https://mp.weixin.qq.com/s/kn2DUJHL48UyuoUEhcfuxw)
 - 2019-03-08: [[Github项目推荐] 推荐三个助你更好利用Github的工具](https://mp.weixin.qq.com/s/Mtijg-AXN4zCeZktkr7nqQ)
 - 2019-03-23：[搜索和在线阅读 Github 代码的插件推荐](https://mp.weixin.qq.com/s/Fv8zQf8uaRpkJatMT9MKBw)
+- 2019-03-27：[日入过万星的 Github 项目](https://mp.weixin.qq.com/s/rTWO4VGAJ0x19BsRaLclJA)
 
 
 
