@@ -113,7 +113,7 @@
 
 #### 基础入门系列
 
-- [Python 基础入门--简介和环境配置](https://mp.weixin.qq.com/s/DrGr8eiZXj_wTnyDaKFpbg)
+- 2019-03-26：[Python 基础入门--简介和环境配置](https://mp.weixin.qq.com/s/DrGr8eiZXj_wTnyDaKFpbg)
 
 ##### Python-100-Examples
 
@@ -158,4 +158,38 @@
 
 - 2019-01-27: [工作半年的一点感想](https://mp.weixin.qq.com/s/G8bsYgK_1eBufrRS9jBbRA)
 - 2019-03-02: [关于春招 & 秋招面试的一些经验](https://mp.weixin.qq.com/s/gmE2flKelCqp4OfjV-594A)
+
+
+
+### To Do List
+
+#### 待翻译文章
+
+##### 机器学习
+
+- [x] [machine-learning-in-python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
+- [ ] [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+- [ ] [How to Develop and Demonstrate Competence With Deep Learning for Computer Vision](https://machinelearningmastery.com/how-to-develop-and-demonstrate-competence-with-deep-learning-for-computer-vision/)--培养计算机视觉所需要的能力
+- [ ] [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)--计算机视觉的应用综述
+- [ ] [手把手教你搭建食物识别API](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
+- [ ] [Implementing Face Detection using Python and OpenCV](https://medium.com/analytics-vidhya/how-to-build-a-face-detection-model-in-python-8dc9cecadfe9)--利用 opencv 实现人脸检测
+- [ ] [Cloth Swapping with Deep Learning: Implement Conditional Analogy GAN in Keras](https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/)
+
+##### Python
+
+- [ ] Jupyter Notebook 教程[[入门]](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)[[进阶]](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+- [ ] [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)--读取，保存csv文件
+- [ ] [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)--总结了一些不常见当有效的技巧，主要来自 PyTricks 项目
+
+- [ ] [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)--28 个 Jupyter 的 秘诀、技巧和快捷键
+
+
+
+##### GAN 学习
+
+- [ ] [来自 O'Reilly 的全面教程《生成对抗网络初学者》](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+- [ ] 一个可以给旧图上色，修复的GAN https://github.com/jantic/DeOldify
+- [ ] [GAN-—Why it is so hard to train Generative Adversarial Networks!](https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b)
+
+
 
