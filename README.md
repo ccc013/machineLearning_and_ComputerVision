@@ -64,6 +64,13 @@
 2. TensorFlow内核剖析 [[Github]](https://github.com/horance-liu/tensorflow-internals) [[PDF]](<https://raw.github.com/horance-liu/tensorflow-internals/master/tensorflow-internals.pdf>) ：这是一本剖析 TensorFlow 内核工作原理的书籍
 3. 吴恩达老师的最新书籍--MachineLearningYearning [[官网]](https://www.deeplearning.ai/) [[英文版]](https://www.deeplearning.ai/machine-learning-yearning/) [[中文版]](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 
+##### 英语学习
+
+1. [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+2. [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)
+3. [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)--专为程序员编写的英语学习指南 v1.2, 在线版本请点 -> https://a-programmers-guide-to-english.harryyu.me/
+4. [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)--李笑来
+
 ### 文章汇总
 
 #### 机器学习
@@ -99,7 +106,15 @@
 - 2018-12-16：[[GAN学习系列3]采用深度学习和 TensorFlow 实现图片修复(中）](https://mp.weixin.qq.com/s/nYDZA75JcfsADYyNdXjmJQ)
 - 2018-12-22：[[GAN学习系列3]采用深度学习和 TensorFlow 实现图片修复(下）](https://mp.weixin.qq.com/s/1Q39H4bA_2k3e4ry5zSQZQ)
 
+##### 计算机视觉
 
+- 2019-04-25: [来了解下计算机视觉的八大应用](https://mp.weixin.qq.com/s/z9QbjeoLoycDaawUV_QcCA)
+
+##### Pytorch
+
+###### 60 分钟入门 Pytorch
+
+- 2019-05-18：[快速入门Pytorch(1)--安装、张量以及梯度](https://mp.weixin.qq.com/s/WZdBm2JQ4yKjISQmXN4TMg)
 
 #### 数学系列
 
@@ -111,9 +126,11 @@
 
 #### Python
 
-#### 基础入门系列
+##### 基础入门系列
 
 - 2019-03-26：[Python 基础入门--简介和环境配置](https://mp.weixin.qq.com/s/DrGr8eiZXj_wTnyDaKFpbg)
+- 2019-04-13：[Python基础入门_2基础语法和变量类型](https://mp.weixin.qq.com/s/Cw1TyTLKP_6271Sgx6gIBA)
+- 2019-04-19：[Python基础入门_3条件语句和迭代循环](https://mp.weixin.qq.com/s/xVldxZ-z33wy5h7obiSZTw)
 
 ##### Python-100-Examples
 
@@ -151,6 +168,8 @@
 - 2019-03-08: [[Github项目推荐] 推荐三个助你更好利用Github的工具](https://mp.weixin.qq.com/s/Mtijg-AXN4zCeZktkr7nqQ)
 - 2019-03-23：[搜索和在线阅读 Github 代码的插件推荐](https://mp.weixin.qq.com/s/Fv8zQf8uaRpkJatMT9MKBw)
 - 2019-03-27：[日入过万星的 Github 项目](https://mp.weixin.qq.com/s/rTWO4VGAJ0x19BsRaLclJA)
+- 2019-04-06：[这些单词你都念对了吗？顺便推荐三份程序员专属英语教程！](https://mp.weixin.qq.com/s/yU3wczdePK9OvMgjNg5bug)
+- 2019-04-11：[Github上的各大高校资料以及国外公开课视频](https://mp.weixin.qq.com/s/z3XS6fO303uVZSPmFKBKlQ)
 
 
 
@@ -170,7 +189,7 @@
 - [x] [machine-learning-in-python](https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/)
 - [ ] [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 - [ ] [How to Develop and Demonstrate Competence With Deep Learning for Computer Vision](https://machinelearningmastery.com/how-to-develop-and-demonstrate-competence-with-deep-learning-for-computer-vision/)--培养计算机视觉所需要的能力
-- [ ] [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)--计算机视觉的应用综述
+- [x] [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)--计算机视觉的应用综述
 - [ ] [手把手教你搭建食物识别API](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
 - [ ] [Implementing Face Detection using Python and OpenCV](https://medium.com/analytics-vidhya/how-to-build-a-face-detection-model-in-python-8dc9cecadfe9)--利用 opencv 实现人脸检测
 - [ ] [Cloth Swapping with Deep Learning: Implement Conditional Analogy GAN in Keras](https://shaoanlu.wordpress.com/2017/10/26/reimplement-conditional-anology-gan-in-keras/)
