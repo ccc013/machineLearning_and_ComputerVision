@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # image
-./Projects/image_composition/*.jpg
+Projects/image_composition/*.jpg
 
 # ttc file
-./Projects/image_composition/*.ttc
+Projects/image_composition/*.ttc
