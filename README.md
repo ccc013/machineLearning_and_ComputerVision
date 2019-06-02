@@ -133,6 +133,7 @@
 - [Python 基础入门--简介和环境配置](https://mp.weixin.qq.com/s/DrGr8eiZXj_wTnyDaKFpbg)
 - [Python基础入门_2基础语法和变量类型](https://mp.weixin.qq.com/s/Cw1TyTLKP_6271Sgx6gIBA)
 - [Python基础入门_3条件语句和迭代循环](https://mp.weixin.qq.com/s/xVldxZ-z33wy5h7obiSZTw)
+- [Python基础入门_4函数](https://mp.weixin.qq.com/s/eszIPhEQDQHD-gUPpD5--Q)
 
 ##### Python-100-Examples
 
@@ -173,6 +174,7 @@
 - [日入过万星的 Github 项目](https://mp.weixin.qq.com/s/rTWO4VGAJ0x19BsRaLclJA)
 - [这些单词你都念对了吗？顺便推荐三份程序员专属英语教程！](https://mp.weixin.qq.com/s/yU3wczdePK9OvMgjNg5bug)
 - [Github上的各大高校资料以及国外公开课视频](https://mp.weixin.qq.com/s/z3XS6fO303uVZSPmFKBKlQ)
+- [5月份 Github 上最热的十个 Python 项目，从Debug工具到AI水军、量化交易系统。](https://mp.weixin.qq.com/s/zu7CONs5G9NcyeP4bhDfEA)
 
 
 
@@ -181,7 +183,9 @@
 - [工作半年的一点感想](https://mp.weixin.qq.com/s/G8bsYgK_1eBufrRS9jBbRA)
 - [关于春招 & 秋招面试的一些经验](https://mp.weixin.qq.com/s/gmE2flKelCqp4OfjV-594A)
 
+#### 周末阅读
 
+- [[周末阅读]如何培养你的自信和正确认识财富、创造财富](https://mp.weixin.qq.com/s/yqaPOxXB4E0XOuHEZuI3wA)
 
 ### To Do List
 
