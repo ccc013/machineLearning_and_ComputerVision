@@ -97,6 +97,8 @@
 
 #### 深度学习
 
+- [一文了解神经网络的基本原理](https://mp.weixin.qq.com/s/U2DDT4pCwzPdVDpt2Klpsg)
+
 ##### GAN 学习系列
 
 - [[GAN学习系列1]初识GAN](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483711&idx=1&sn=ead88d5b21e08d9df853b72f31d4b5f4&chksm=fe3b0f4ac94c865cfc243123eb4815539ef2d5babdc8346f79a29b681e55eee5f964bdc61d71&token=1760252914&lang=zh_CN#rd)
@@ -144,7 +146,9 @@
 - [Python-100例(5-6) 排序&斐波那契数列](https://mp.weixin.qq.com/s/0MGLyYfBfHhhAyZ0r1RqHQ)
 - [Python-100例(7-8) 复制列表 & 打印乘法口诀](https://mp.weixin.qq.com/s/h9a2hJ88bfzTh0I8yH_Czw)
 
+##### Python技巧
 
+- [[Python技巧]是时候用 defaultdict 和 Counter 代替 dictionary 了](https://mp.weixin.qq.com/s/G-amaeK4RCYhD6YYiGt1-A)
 
 #### 实战系列
 
@@ -175,6 +179,7 @@
 - [这些单词你都念对了吗？顺便推荐三份程序员专属英语教程！](https://mp.weixin.qq.com/s/yU3wczdePK9OvMgjNg5bug)
 - [Github上的各大高校资料以及国外公开课视频](https://mp.weixin.qq.com/s/z3XS6fO303uVZSPmFKBKlQ)
 - [5月份 Github 上最热的十个 Python 项目，从Debug工具到AI水军、量化交易系统。](https://mp.weixin.qq.com/s/zu7CONs5G9NcyeP4bhDfEA)
+- [[Github项目]基于PyTorch的深度学习网络模型实现](https://mp.weixin.qq.com/s/VWRiFAQGZHvMt1fOv2Xgog)
 
 
 
