@@ -149,6 +149,13 @@
 ##### Python技巧
 
 - [[Python技巧]是时候用 defaultdict 和 Counter 代替 dictionary 了](https://mp.weixin.qq.com/s/G-amaeK4RCYhD6YYiGt1-A)
+- [[Python技巧]如何加快循环操作和Numpy数组运算速度](https://mp.weixin.qq.com/s/lpzORF7BD9jUe-R4zCaI8A)
+
+
+
+#### Jupyter notebook
+
+- [如何远程访问服务器的 Jupyter notebook](https://mp.weixin.qq.com/s/5c6BWuhztej4wSYz046wFQ)
 
 #### 实战系列
 
@@ -180,6 +187,7 @@
 - [Github上的各大高校资料以及国外公开课视频](https://mp.weixin.qq.com/s/z3XS6fO303uVZSPmFKBKlQ)
 - [5月份 Github 上最热的十个 Python 项目，从Debug工具到AI水军、量化交易系统。](https://mp.weixin.qq.com/s/zu7CONs5G9NcyeP4bhDfEA)
 - [[Github项目]基于PyTorch的深度学习网络模型实现](https://mp.weixin.qq.com/s/VWRiFAQGZHvMt1fOv2Xgog)
+- [[Github推荐]CVPR2019录用论文下载及可视化论文网站](https://mp.weixin.qq.com/s/0H2VSBUrdgtR3RF6469wLw)
 
 
 
@@ -191,6 +199,7 @@
 #### 周末阅读
 
 - [[周末阅读]如何培养你的自信和正确认识财富、创造财富](https://mp.weixin.qq.com/s/yqaPOxXB4E0XOuHEZuI3wA)
+- [[周末阅读]认知和规划，以及推荐几个入门教程Github](https://mp.weixin.qq.com/s/IA_A0XN_spmci0m1SQQRfw)
 
 ### To Do List
 
