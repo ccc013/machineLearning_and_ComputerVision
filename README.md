@@ -1,7 +1,7 @@
-# 机器学习与计算机视觉公众号
-主要是“机器学习与计算机视觉”公众号的文章和代码。
+# 算法猿的成长公众号
+主要是“算法猿的成长”公众号的文章和代码。
 
-![](https://cai-images-1257823952.cos.ap-beijing.myqcloud.com/qrcode_new.jpg)
+![](https://cai-images-1257823952.cos.ap-beijing.myqcloud.com/qrcode_0601.png)
 
 ### 主要内容
 
@@ -107,6 +107,7 @@
 - [[GAN学习系列3]采用深度学习和 TensorFlow 实现图片修复(上）](https://mp.weixin.qq.com/s/S_uiSe74Ti6N_u4Y5Fd6Fw)
 - [[GAN学习系列3]采用深度学习和 TensorFlow 实现图片修复(中）](https://mp.weixin.qq.com/s/nYDZA75JcfsADYyNdXjmJQ)
 - [[GAN学习系列3]采用深度学习和 TensorFlow 实现图片修复(下）](https://mp.weixin.qq.com/s/1Q39H4bA_2k3e4ry5zSQZQ)
+- [一文了解下 GANs可以做到的事情](https://mp.weixin.qq.com/s/twDS3pNo_WGm1Ka2_2RuQA)
 
 ##### 计算机视觉
 
@@ -136,6 +137,7 @@
 - [Python基础入门_2基础语法和变量类型](https://mp.weixin.qq.com/s/Cw1TyTLKP_6271Sgx6gIBA)
 - [Python基础入门_3条件语句和迭代循环](https://mp.weixin.qq.com/s/xVldxZ-z33wy5h7obiSZTw)
 - [Python基础入门_4函数](https://mp.weixin.qq.com/s/eszIPhEQDQHD-gUPpD5--Q)
+- [Python基础入门_5面向对象基础](https://mp.weixin.qq.com/s/UDTWLRRfxmvJSz8GaHNQmw)
 
 ##### Python-100-Examples
 
