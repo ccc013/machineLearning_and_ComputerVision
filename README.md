@@ -3,11 +3,44 @@
 
 ![](https://cai-images-1257823952.cos.ap-beijing.myqcloud.com/qrcode_0601.png)
 
-[toc]
+## 文章目录
+
+- [机器学习]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0](https://github.com/ccc013/machineLearning_and_ComputerVision#机器学习))
+  - [机器学习入门系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#机器学习入门系列))
+  - [特征工程系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#特征工程系列))
+  - [AI知识点系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#ai%E7%9F%A5%E8%AF%86%E7%82%B9%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#ai知识点系列))
+  - [深度学习]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0](https://github.com/ccc013/machineLearning_and_ComputerVision#深度学习))
+  - [GAN 学习系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#gan-%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#gan-学习系列))
+  - [计算机视觉]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89](https://github.com/ccc013/machineLearning_and_ComputerVision#计算机视觉))
+  - [推荐系统]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F](https://github.com/ccc013/machineLearning_and_ComputerVision#推荐系统))
+  - [论文阅读]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB](https://github.com/ccc013/machineLearning_and_ComputerVision#论文阅读))
+  - [Pytorch](https://github.com/ccc013/machineLearning_and_ComputerVision#pytorch)
+    - [教程]()
+  - [Keras](https://github.com/ccc013/machineLearning_and_ComputerVision#keras)
+  - [资源教程]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%B5%84%E6%BA%90%E6%95%99%E7%A8%8B](https://github.com/ccc013/machineLearning_and_ComputerVision#资源教程))
+- [数学系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%95%B0%E5%AD%A6%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#数学系列))
+- [Python]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%95%B0%E5%AD%A6%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#数学系列))
+  - [基础入门系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#基础入门系列))
+  - [进阶系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#进阶系列))
+  - [Python-100-Examples](https://github.com/ccc013/machineLearning_and_ComputerVision#python-100-examples)
+  - [Python技巧]([https://github.com/ccc013/machineLearning_and_ComputerVision#python%E6%8A%80%E5%B7%A7](https://github.com/ccc013/machineLearning_and_ComputerVision#python技巧))
+  - [Pandas](https://github.com/ccc013/machineLearning_and_ComputerVision#pandas)
+  - [Jupyter notebook](https://github.com/ccc013/machineLearning_and_ComputerVision#pandas)
+  - [资源教程]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%B5%84%E6%BA%90%E6%95%99%E7%A8%8B-1](https://github.com/ccc013/machineLearning_and_ComputerVision#资源教程-1))
+- [数据结构]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84](https://github.com/ccc013/machineLearning_and_ComputerVision#数据结构))
+- [工程能力]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B](https://github.com/ccc013/machineLearning_and_ComputerVision#工程能力))
+- [实战系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E5%AE%9E%E6%88%98%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#实战系列))
+- [资源分享系列]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB%E7%B3%BB%E5%88%97](https://github.com/ccc013/machineLearning_and_ComputerVision#资源分享系列))
+- [感想 & 心得体会 & 其他]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E6%84%9F%E6%83%B3--%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A--%E5%85%B6%E4%BB%96](https://github.com/ccc013/machineLearning_and_ComputerVision#感想--心得体会--其他))
+  - [周末阅读]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E5%91%A8%E6%9C%AB%E9%98%85%E8%AF%BB](https://github.com/ccc013/machineLearning_and_ComputerVision#周末阅读))
+  - [周记&总结]([https://github.com/ccc013/machineLearning_and_ComputerVision#%E5%91%A8%E8%AE%B0%E6%80%BB%E7%BB%93](https://github.com/ccc013/machineLearning_and_ComputerVision#周记总结))
 
 
 
 ## 文章汇总
+
+------
+
 
 ### 机器学习
 
@@ -83,7 +116,7 @@
 
 #### Pytorch
 
-##### 60 分钟入门 Pytorch
+##### 教程
 
 - [快速入门Pytorch(1)--安装、张量以及梯度](https://mp.weixin.qq.com/s/WZdBm2JQ4yKjISQmXN4TMg)
 - [快速入门PyTorch(2)--如何构建一个神经网络](https://mp.weixin.qq.com/s/Q8tNXsDh6cdCnvLQ3yglZQ)
