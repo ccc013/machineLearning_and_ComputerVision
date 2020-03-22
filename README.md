@@ -82,8 +82,13 @@
 #### 深度学习
 
 - [一文了解神经网络的基本原理](https://mp.weixin.qq.com/s/U2DDT4pCwzPdVDpt2Klpsg)
+
 - [你有哪些deep learning（rnn、cnn）调参的经验？](https://mp.weixin.qq.com/s/7ur67NqLIX8cDTSDkol6Ug)
+
 - [深度学习领域有哪些瓶颈](https://mp.weixin.qq.com/s/PRCrI4sp9vaiwsAu-YvzJw)
+
+[back to top](https://github.com/ccc013/machineLearning_and_ComputerVision#文章目录)
+
 
 #### GAN 学习系列
 
@@ -109,6 +114,7 @@
 #### 推荐系统
 
 - [RS(1)--10分钟了解什么是推荐系统](https://mp.weixin.qq.com/s/JUqYRtzlefWw-GZN9eTCqQ)
+- [RS(2)--从文本数据到用户画像](https://mp.weixin.qq.com/s/lgbMvLe9MHUT5K8u0EyCTg)
 
 [back to top](https://github.com/ccc013/machineLearning_and_ComputerVision#文章目录)
 
@@ -136,6 +142,7 @@
 
 #### 资源教程
 
+- [常见的数据增强项目和论文介绍](https://mp.weixin.qq.com/s/heH9P9imfT0zCruySi_NTg)
 - [[Github项目]基于PyTorch的深度学习网络模型实现](https://mp.weixin.qq.com/s/VWRiFAQGZHvMt1fOv2Xgog)
 - [[Github推荐]CVPR2019录用论文下载及可视化论文网站](https://mp.weixin.qq.com/s/0H2VSBUrdgtR3RF6469wLw)
 - [[资源分享] Github上八千Star的深度学习500问教程](https://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247483737&idx=1&sn=5e9a27bd2b88a608a49685213cc0d481&chksm=fe3b0f2cc94c863a0f86a062d4bab98d333332be4b546101fd15f0dd5269f2407ca5f3618e2d&token=985117826&lang=zh_CN#rd)
@@ -143,7 +150,7 @@
 - [[资源分享] TensorFlow 官方中文版教程来了](https://mp.weixin.qq.com/s/Si1YaYLfhL1upbjQkvireQ)
 - [必读的AI和深度学习博客](https://mp.weixin.qq.com/s/0J2raJqiYsYPqwAV1MALaw)
 - [[教程]一份简单易懂的 TensorFlow 教程](https://mp.weixin.qq.com/s/vXIM6Ttw37yzhVB_CvXmCA)
-- - [[资源]基于 Pytorch 的 TorchGAN开源了！](https://mp.weixin.qq.com/s/ayZ7v_ZDgvQXF4dQD7fFTQ)
+- [资源]基于 Pytorch 的 TorchGAN开源了！](https://mp.weixin.qq.com/s/ayZ7v_ZDgvQXF4dQD7fFTQ)
 - [[资源分享] 推荐两本电子书](https://mp.weixin.qq.com/s/4lwZRVAqWiV_S7L_mn8IKQ)
 - [Github项目|几行代码即可实现人脸检测、目标检测的开源计算机视觉库](https://mp.weixin.qq.com/s/fxXwnGRMVo5lmivC8FuWcQ)
 
