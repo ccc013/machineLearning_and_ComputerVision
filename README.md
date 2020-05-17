@@ -1,7 +1,10 @@
 # 算法猿的成长公众号
-主要是“算法猿的成长”公众号的文章和代码。
 
 ![](https://cai-images-1257823952.cos.ap-beijing.myqcloud.com/qrcode_0601.png)
+
+本公众号主要分享机器学习、深度学习、Python方向的学习笔记和翻译文章，此外，还会包括一些教程、资源的推荐，偶尔的读书笔记分享。
+
+这里汇总下截止到目前发表的文章(2020年5月17日）:
 
 ## 文章目录
 
@@ -45,6 +48,8 @@
 ### 机器学习
 
 - [机器学习入门学习资料推荐](https://mp.weixin.qq.com/s/a1Nry01r2e_li1AmuPc1dQ)
+- [关于AI你可能不知道的5件事情](https://mp.weixin.qq.com/s/0QWt6ayz3bmNUDKxNJZ8bA)
+- [10个实用的机器学习建议](https://mp.weixin.qq.com/s/iAZ9Pxn-qW86FCFccyI3fw)
 
 #### 机器学习入门系列
 
@@ -82,10 +87,11 @@
 #### 深度学习
 
 - [一文了解神经网络的基本原理](https://mp.weixin.qq.com/s/U2DDT4pCwzPdVDpt2Klpsg)
-
 - [你有哪些deep learning（rnn、cnn）调参的经验？](https://mp.weixin.qq.com/s/7ur67NqLIX8cDTSDkol6Ug)
-
 - [深度学习领域有哪些瓶颈](https://mp.weixin.qq.com/s/PRCrI4sp9vaiwsAu-YvzJw)
+- [深度学习算法简要综述(上)](https://mp.weixin.qq.com/s/Q-29qSAcr3VfaotN-d6vnQ)
+- [深度学习算法简要综述(下)](https://mp.weixin.qq.com/s/40H8n03htyq6AsQOv51jTg)
+- [每日一学：如何计算cnn模型的计算量](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485317&idx=1&sn=cd7221d8f7394722e9af896f60c9becf&chksm=fe3b09f0c94c80e66773ad3bdff66f85d514d04fc9a3ad3febe266c34177c047c0da3837b0f8#rd)
 
 [back to top](https://github.com/ccc013/machineLearning_and_ComputerVision#文章目录)
 
@@ -105,6 +111,8 @@
 
 #### 计算机视觉
 
+- [是选择Keras还是PyTorch开始你的深度学习之旅呢？](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485354&idx=1&sn=17242f7b33cd1a55294e8d44aa0fce04&chksm=fe3b09dfc94c80c97544507906ade58968ff216375c9a9aee3ca4fc883b9e7115a373870887d#rd)
+- [2020年计算机视觉学习指南](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485343&idx=1&sn=d09d90567f37071fa8f1ba6763a52778&chksm=fe3b09eac94c80fc81255d6ebb4e7484465595d753f4ab93c42b9617a233a6ae619b00d2cd6a#rd)
 - [来了解下计算机视觉的八大应用](https://mp.weixin.qq.com/s/z9QbjeoLoycDaawUV_QcCA)
 - [资源 | 最新的细粒度图像分析资源](https://mp.weixin.qq.com/s/lfPmwnOTB3vKleQcP3b3nQ)
 - [国内有哪些不错的CV（计算机视觉）团队](https://mp.weixin.qq.com/s/lRficEptMzGYsJOD-aH7Gg)
@@ -131,10 +139,13 @@
 - [快速入门Pytorch(1)--安装、张量以及梯度](https://mp.weixin.qq.com/s/WZdBm2JQ4yKjISQmXN4TMg)
 - [快速入门PyTorch(2)--如何构建一个神经网络](https://mp.weixin.qq.com/s/Q8tNXsDh6cdCnvLQ3yglZQ)
 - [快速入门PyTorch(3)--训练一个图片分类器和多 GPUs 训练](https://mp.weixin.qq.com/s/3hXlcOVuJka_3EOhGw-UYQ)
+- [60分钟快速入门PyTorch](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485371&idx=1&sn=45f3d8b829a22170cd8f5e4ff2e73012&chksm=fe3b09cec94c80d8dd1efb36f2074005669b4cab041359c056bf429b84cb6379cdafad0db4e2#rd)
 - [PyTorch系列 | 快速入门迁移学习](https://mp.weixin.qq.com/s/jBih7EkI8GIL3pvYeqZffw)
 - [PyTorch系列 | 如何加快你的模型训练速度呢？](https://mp.weixin.qq.com/s/BbnNPTiUwZ3TjiKVniYESg)
 - [PyTorch 系列 | 数据加载和预处理教程](https://mp.weixin.qq.com/s/Z00q13qTvnVfMBG5yxOz4Q)
 - [PyTorch | 保存和加载模型教程](https://mp.weixin.qq.com/s/1Clo7wbQ9C2tMboVkSyHhQ)
+- [编写高效的PyTorch代码技巧（上）](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485334&idx=1&sn=fad475f579601eda6f8454e43ca7e486&chksm=fe3b09e3c94c80f5a36924bfc9a1ae3e99084651c6c3bdcde4530467bf54dd9a7a9ec51141ea#rd)
+- [编写高效的PyTorch代码技巧（下）](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485338&idx=1&sn=fcbd04c00e9289d34a3a5585599e519a&chksm=fe3b09efc94c80f9d0d3996892fa0dff8f7af767fbeaad6bfabc1186724865b808b2c62d48cb#rd)
 
 #### Keras
 
@@ -150,7 +161,7 @@
 - [[资源分享] TensorFlow 官方中文版教程来了](https://mp.weixin.qq.com/s/Si1YaYLfhL1upbjQkvireQ)
 - [必读的AI和深度学习博客](https://mp.weixin.qq.com/s/0J2raJqiYsYPqwAV1MALaw)
 - [[教程]一份简单易懂的 TensorFlow 教程](https://mp.weixin.qq.com/s/vXIM6Ttw37yzhVB_CvXmCA)
-- [资源]基于 Pytorch 的 TorchGAN开源了！](https://mp.weixin.qq.com/s/ayZ7v_ZDgvQXF4dQD7fFTQ)
+- [[资源]基于 Pytorch 的 TorchGAN开源了](https://mp.weixin.qq.com/s/ayZ7v_ZDgvQXF4dQD7fFTQ)
 - [[资源分享] 推荐两本电子书](https://mp.weixin.qq.com/s/4lwZRVAqWiV_S7L_mn8IKQ)
 - [Github项目|几行代码即可实现人脸检测、目标检测的开源计算机视觉库](https://mp.weixin.qq.com/s/fxXwnGRMVo5lmivC8FuWcQ)
 
@@ -172,6 +183,7 @@
 
 - [Mac 下安装配置 Python 开发环境](https://mp.weixin.qq.com/s/vDMzUmBgNI4gI3-nR-mOpA)
 - [python版代码整洁之道](https://mp.weixin.qq.com/s/9rue2bpHSoyJE0ndyenWBw)
+- [python 数据模型](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485296&idx=1&sn=ab525336ac31a4f09bd19b5a591abb9b&chksm=fe3b0905c94c80134c9f81e78bfa982b52456ce2f2c9446a1d8174c0c1a5e2e0a4137f97bfa1#rd)
 
 [back to top](https://github.com/ccc013/machineLearning_and_ComputerVision#文章目录)
 
@@ -216,6 +228,9 @@
 - [python技巧（1）--如何转换itertools.chain对象为数组](https://mp.weixin.qq.com/s/v573S7oVp2AEO9RJ2vgBKg)
 - [python技巧（2）--碾平列表和列表去重](https://mp.weixin.qq.com/s/8S5g6wX2h306BPPiwyqiAg)
 - [一日一学：返回排序好的列表的索引顺序](https://mp.weixin.qq.com/s/lGaowtIYY8sVRc-H4jPm4w)
+- [每日一学：如何读取网络图片](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485326&idx=1&sn=98cf73dd93a7edc675cd595c1d2b6915&chksm=fe3b09fbc94c80ed747d2f1846acef6cbe45d45d2611f39cd778feea622a12b0ad59f1ca5319#rd)
+- [每日一学：如何用matplotlib展示图片](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485321&idx=1&sn=7418dd8043e53d408fc1cdc8b9a6e0de&chksm=fe3b09fcc94c80ead49601a953f7e5f8fc58003e0012f16315484e2ba3e7edf89e62fc99d648#rd)
+- [每日一学：如何转换png图片为jpg图片](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485291&idx=1&sn=7f43efdccdbe567a57b9f2bc967b7c99&chksm=fe3b091ec94c8008b59cc73d07860d8ef7de393d5fb4606c7ff19111777a84a29799a6ad0879#rd)
 
 [back to top](https://github.com/ccc013/machineLearning_and_ComputerVision#文章目录)
 
@@ -237,6 +252,7 @@
 
 #### 资源教程
 
+- [python 学习资源推荐](http://mp.weixin.qq.com/s?__biz=MzU5MDY5OTI5MA==&mid=2247485284&idx=1&sn=d6186977c5900519c252335440d08220&chksm=fe3b0911c94c8007a5c71263104d9ce26700724d34e35329b667053b0cea64572141d2df9fc6#rd)
 - [[资源]181个Python开源项目分享！](https://mp.weixin.qq.com/s/Um8VBGVRqWDRLwog5pnojw)
 - [[资源]推荐一些Python书籍和教程，入门和进阶的都有！](https://mp.weixin.qq.com/s/jkIQTjM9C3fDvM1c6HwcQg)
 - [5月份 Github 上最热的十个 Python 项目，从Debug工具到AI水军、量化交易系统](https://mp.weixin.qq.com/s/zu7CONs5G9NcyeP4bhDfEA)
